@@ -5,7 +5,7 @@ Learn more about me at: **https://ryanvu.netlify.app/**
   
 My skills include but not limited to:  
 - HTML | CSS | Sass | Scss 
-- Material-UI | Tailwind CSS | Bootstrap
+- Material-UI | Tailwind CSS | Styled Components | Bootstrap
 - Responsive Design | Modern UI/UX Design
 - JavaScript ES6 | React | Redux (RTK) | React Query
 - React Testing Library | Jest 
