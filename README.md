@@ -7,15 +7,16 @@ Learn more about me at: **https://ryanvu.netlify.app/**
 My skills include but not limited to:  
 - HTML | CSS | Sass | Scss 
 - Material-UI | Tailwind CSS | Bootstrap
-- Responsive Design | Modern UI/UX design
-- JavaScript ES6
-- React | Redux (RTK) | React Query
-- REST API | Axios
-- Git | GitHub
-- Node.js | Express
+- Responsive Design | Modern UI/UX Design
+- JavaScript ES6 | React | Redux (RTK) | React Query
+- React Testing Library | Jest 
+- REST API | Axios 
+- Node.js | Express | Vite
 - MongoDB | Mongoose | PostgreSQL
 - Python | Django 
 - NumPy | Turtle | Flask | Plotly | Pandas
+- Git | GitHub
+- VS Code | PyCharm | Postman
 
 <!--
 **ryanvu2022/ryanvu2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
