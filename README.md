@@ -12,8 +12,8 @@ My skills include but not limited to:
 - REST API | Axios 
 - Node.js | Express | Vite
 - MongoDB | Mongoose | PostgreSQL
-- Python | Django 
-- NumPy | Turtle | Flask | Plotly | Pandas
+- Python | Turtle Graphics 
+- NumPy | Flask | Plotly | Pandas
 - Git | GitHub
 - VS Code | PyCharm | Postman
 
