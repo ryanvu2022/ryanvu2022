@@ -13,9 +13,11 @@ My skills include but not limited to:
 - Node.js | Express | Vite
 - MongoDB | Mongoose | PostgreSQL
 - Python | Turtle Graphics 
-- NumPy | Flask | Plotly | Pandas
 - Git | GitHub
 - VS Code | PyCharm | Postman
+- Amazon Web Services - AWS | Heroku | Netlify
+
+
 
 <!--
 **ryanvu2022/ryanvu2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
