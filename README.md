@@ -10,7 +10,7 @@ My skills include but not limited to:
 - React Testing Library | Jest 
 - REST API | Axios | RTK Query 
 - Node.js | Express | MongoDB | Mongoose | PostgreSQL 
-- Python | Turtle Graphics 
+- Python | Turtle Graphics | Pandas 
 - Git | GitHub | VS Code | PyCharm | Postman | Vite.js
 - Amazon Web Services - AWS | Heroku | Netlify | Railway | Render
 
