@@ -6,11 +6,11 @@ Learn more about me at: **https://www.ryan-vu.com/**
 My skills include but not limited to:  
 - HTML | CSS | Sass | Scss | Material-UI | Tailwind CSS | Styled Components | Bootstrap
 - Responsive Design | Modern UI/UX Design
-- JavaScript ES6 | jQuery | React | Redux Toolkit | React Query
-- React Testing Library | Jest 
+- JavaScript ES6 | jQuery | React | Redux Toolkit | React Query | Context API
+- Unit Testing | React Testing Library | Jest 
 - REST API | Axios | RTK Query 
 - Node.js | Express | MongoDB | Mongoose | PostgreSQL 
-- Python | Turtle Graphics | Pandas 
+- Python | Turtle Graphics | Pandas | Tkinter | BeautifulSoup
 - Git | GitHub | VS Code | PyCharm | Postman | Vite.js
 - Amazon Web Services - AWS | Heroku | Netlify | Railway | Render
 
