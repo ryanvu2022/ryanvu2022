@@ -4,7 +4,7 @@ I'm a full stack developer, focusing on frontend. I have a passion for technolog
 Learn more about me at: **https://www.ryan-vu.com/**  
   
 My skills include but not limited to:  
-- HTML | CSS | Sass | Scss | Material-UI | Tailwind CSS | Styled Components | Bootstrap
+- HTML | CSS | Sass | Material-UI | Tailwind CSS | Styled Components | Bootstrap
 - Responsive Design | Modern UI/UX Design
 - JavaScript ES6 | jQuery | React | Redux Toolkit | React Query | Context API
 - Unit Testing | React Testing Library | Jest 
